@@ -31,7 +31,7 @@
 1. Open the `jupyter notebook` with python installed.
 2. Run `rawLoL project.ipynb`.
 
-If you don't have the `jupyter notebook` on your computer, install it from [this link](https://star7sss.tistory.com/30){: target="_black"}.
+If you don't have the `jupyter notebook` on your computer, install it from [this link](https://star7sss.tistory.com/30).
 
 
 ## Contributing
