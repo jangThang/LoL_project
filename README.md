@@ -31,19 +31,19 @@
 1. Open the `jupyter notebook` with python installed.
 2. Run `rawLoL project.ipynb`.
 
-If you don't have the `jupyter notebook` on your computer, install it from [this link](https://star7sss.tistory.com/30){:target="_blank"}.
+If you don't have the `jupyter notebook` on your computer, install it from [this link](https://star7sss.tistory.com/30){: target="_black"}.
 
 
 ## Contributing
 <!-- Write the way to contribute -->
 I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md){:target="_blank"} for details on our code
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-  - [jangThang](https://github.com/JangThang){:target="_blank"} - **Wooyoung Jang** - <star7sss@naver.com>
+  - [jangThang](https://github.com/JangThang) - **Wooyoung Jang** - <star7sss@naver.com>
  
-See also the list of [contributors](https://github.com/jangThang/readmeTemplate/contributors){:target="_blank"} who participated in this project.
+See also the list of [contributors](https://github.com/jangThang/readmeTemplate/contributors) who participated in this project.
 <!--
 ## Used or Referenced Projects
  - [referenced Project](project link) - **LICENSE** - little-bit introduce
