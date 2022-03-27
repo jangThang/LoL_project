@@ -21,7 +21,7 @@
 &nbsp;  Like the match score of the Olympic Games, an intuitive numerical indicator is required, and this can be replaced by **‘predicting the win rate’.**
 &nbsp; The project wants to model the win rate predictor of LoL, the flagship e-sports game.
 
-=> [Project Description and result (detail)](https://star7sss.tistory.com/372){:target="_blank"} (My Blog)
+=> <a href="https://star7sss.tistory.com/372" target="_blank">Project Description and result (detail)</a> (My Blog)
 
 ## Getting Started
 **click `Code - Download ZIP` and  unzip it**
